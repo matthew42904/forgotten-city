@@ -1,0 +1,49 @@
+{
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/forgotten_city/models/block/test.json",
+          "src/main/resources/data/forgotten_city/loot_tables/blocks/test.json",
+          "src/main/java/net/mcreator/forgottencity/block/TestBlock.java",
+          "src/main/resources/assets/forgotten_city/models/item/test.json",
+          "src/main/resources/assets/forgotten_city/blockstates/test.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.forgotten_city.test": "Test"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "forgotten_city",
+    "modName": "Forgotten City",
+    "version": "1.0.0",
+    "author": "mbakk, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.forgottencity"
+  },
+  "mcreatorVersion": 202400452410
+}
