@@ -1,11 +1,11 @@
 {
   "mod_elements": [
     {
-      "name": "ForgottnenCity",
+      "name": "ForgottenCity",
       "type": "tab",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "forgottnen_city",
+      "registry_name": "forgotten_city",
       "metadata": {
         "files": []
       }
@@ -16,9 +16,7 @@
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {
-      "item_group.forgotten_city.forgottnen_city": "Forgotten City"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
