@@ -1,35 +1,13 @@
 {
   "mod_elements": [
     {
-      "name": "Test",
-      "type": "block",
+      "name": "ForgottnenCity",
+      "type": "tab",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "test",
+      "registry_name": "forgottnen_city",
       "metadata": {
-        "files": [
-          "src/main/resources/assets/forgotten_city/models/block/test.json",
-          "src/main/resources/data/forgotten_city/loot_tables/blocks/test.json",
-          "src/main/java/net/mcreator/forgottencity/block/TestBlock.java",
-          "src/main/resources/assets/forgotten_city/models/item/test.json",
-          "src/main/resources/assets/forgotten_city/blockstates/test.json"
-        ]
-      }
-    },
-    {
-      "name": "Test2",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "test_2",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/forgotten_city/models/item/test_2.json",
-          "src/main/resources/assets/forgotten_city/models/block/test_2.json",
-          "src/main/java/net/mcreator/forgottencity/block/Test2Block.java",
-          "src/main/resources/data/forgotten_city/loot_tables/blocks/test_2.json",
-          "src/main/resources/assets/forgotten_city/blockstates/test_2.json"
-        ]
+        "files": []
       }
     }
   ],
@@ -39,8 +17,7 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
-      "block.forgotten_city.test_2": "Test 2",
-      "block.forgotten_city.test": "Test"
+      "item_group.forgotten_city.forgottnen_city": "Forgottnen City"
     }
   },
   "foldersRoot": {
