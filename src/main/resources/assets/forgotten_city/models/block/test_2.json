@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "minecraft:block/bee_nest_bottom",
+    "particle": "minecraft:block/bee_nest_bottom"
+  },
+  "render_type": "solid"
+}

@@ -17,6 +17,7 @@ import net.mcreator.forgottencity.ForgottenCityMod;
 public class ForgottenCityModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, ForgottenCityMod.MODID);
 	public static final RegistryObject<Item> TEST = block(ForgottenCityModBlocks.TEST);
+	public static final RegistryObject<Item> TEST_2 = block(ForgottenCityModBlocks.TEST_2);
 
 	// Start of user code block custom items
 	// End of user code block custom items
